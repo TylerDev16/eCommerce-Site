@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\.Net\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj": {}
+    "C:\\Users\\Tyco\\Documents\\GitHub\\EcommerceWeb\\eCommerce-Site\\EcommerceWeb\\EcommerceWeb.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\.Net\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj": {
+    "C:\\Users\\Tyco\\Documents\\GitHub\\EcommerceWeb\\eCommerce-Site\\EcommerceWeb\\EcommerceWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\.Net\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Tyco\\Documents\\GitHub\\EcommerceWeb\\eCommerce-Site\\EcommerceWeb\\EcommerceWeb.csproj",
         "projectName": "EcommerceWeb",
-        "projectPath": "D:\\Dev\\.Net\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj",
+        "projectPath": "C:\\Users\\Tyco\\Documents\\GitHub\\EcommerceWeb\\eCommerce-Site\\EcommerceWeb\\EcommerceWeb.csproj",
         "packagesPath": "C:\\Users\\Tyco\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\.Net\\EcommerceWeb\\EcommerceWeb\\obj\\",
+        "outputPath": "C:\\Users\\Tyco\\Documents\\GitHub\\EcommerceWeb\\eCommerce-Site\\EcommerceWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tyco\\AppData\\Roaming\\NuGet\\NuGet.Config",

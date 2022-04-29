@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jpac4Ywe1FwsprR77Mf2R4p8C3vGNuGaqIsjBAkj8Qtub2Ch7lAJkbqLwOf8HE/4+KrpK/mR5QtCYK3dQbrN/Q==",
+  "dgSpecHash": "kc9lUAuvG4fj5Nq/jg2+mxLn7Peig4WFnf9q/lG5JvQppFgJzs7CtAXNgF4vZpMkkAZupFrJDKnLTMcc2/60ow==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\.Net\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj",
+  "projectFilePath": "C:\\Users\\Tyco\\Documents\\GitHub\\EcommerceWeb\\eCommerce-Site\\EcommerceWeb\\EcommerceWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tyco\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tyco\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
